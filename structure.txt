@@ -1,0 +1,361 @@
+.topbar
+  .container
+     ul.topbar-info
+       li
+         ionicon
+         span.span
+
+        li
+         ionicon
+         span.span
+
+     .wrapper
+        .languages
+           span.span
+           arrow
+
+        .social-wrapper
+          ionicon
+         
+
+header.header
+  .container
+    a.logo
+      img.img
+
+    div
+      nav.navbar
+        a.logo
+          img.img
+
+        button.nav-close-Btn
+        ionicon
+
+        input.input-field
+          ionicon
+
+        ul.navbar-list
+          li.navbar-item
+            a.navbar-link
+              span.span
+              ionicon
+
+        ul.navbar-actions
+          li
+          .icon-box
+            span.span
+
+        a.icon-box
+          ionicon
+
+      button.btn.header-btn
+
+      .icon-wrapper
+        a.icon-box
+          ionicon
+        
+        a.icon-box
+          ionicon
+
+        a.icon-box
+          ionicon
+
+        button.nav-open-btn
+          svg
+
+
+main
+
+   section.section.hero
+     .container
+        .hero-content
+           p.hero-subtitle
+           h1.h1.hero-title
+           p.section-text
+
+           button.btn.btn-primary
+             span.span
+
+        figure.hero-banner.img-holder
+           img.img-cover
+   
+   section.section.feature
+     .container
+       ul.feature-list
+         li
+           .feature-card
+             figure.card-banner.img-holder
+               img.img-cover
+
+             .card-content
+                h4.h4.card-title
+                p.card-text
+
+   section.section.about
+     .container
+       figure.about-banner.img-holder
+         img.img-cover
+
+       .about-content
+         p.section-subtitle
+
+         h2.h2.section-title
+
+         p.section-text
+
+         span.span
+
+         ul.about-author
+           li
+            .author-card
+              h4.author-title
+              span.author-subtitle
+
+           li
+            .author-card
+              img.img
+
+   section.section.categories
+     .container
+       figure.categorie-banner.img-holder
+         img.img-cover
+
+       .categorie-content
+         h2.h2.section-title
+
+         ul.categorie-list.slider-list
+           li.categorie-item.slider-item
+           
+             .categorie-card
+                figure.card-banner.img-holder
+                  img.img-cover
+
+                .card-content
+                   h4.h4.card-title
+                   p.categorie-data
+
+         button.slider-btn.slider-prev-btn
+         button.slider-btn.slider-next-btn
+
+   section.section.products
+     .container
+
+       h2.h2.section-title
+
+       ul.product-navbar-list
+         li.product-nav-item
+           a.product-nav-link
+             span.span
+
+       ul.product-list
+         li.product-item
+
+           .product-card
+             .card-banner-box
+                figure.card-banner.img-holder
+                  img.img-cover
+
+                ul.product-action-list
+                   li.product-action-item
+                     a.product-action-link
+                       ionicon
+
+             .card-content
+                .card-badge
+                   span.span
+
+                .rating-wrapper
+                  ionicon
+                  span.rating-data
+
+                h4.h4.card-title
+                
+                .price-wrapper
+                    p.price
+                    strike.strike
+
+   section.section.stats
+     .container
+       ul.states-list
+         li
+           .states-card
+             figure.card-banner.img-holder
+               img.img-cover
+              
+             .card-content
+               h3.h3.stats-card-title
+                 span.span
+
+               p.states-subtitle
+
+   section.section.products
+     .container
+
+        h2.h2.section-title
+
+        ul.product-list
+          li.product-item
+
+            .product-card
+              .card-banner-box
+                  figure.card-banner.img-holder
+                    img.img-cover
+
+                  ul.product-action-list
+                    li.product-action-item
+                      a.product-action-link
+                        ionicon
+
+              .card-content
+                  .card-badge
+                    span.span
+
+                  .rating-wrapper
+                    ionicon
+                    span.rating-data
+
+                  h4.h4.card-title
+                  
+                  .price-wrapper
+                      p.price
+                      strike.strike
+
+   section.section.contact
+     .container
+       figure.contact-banner-1.img-holder
+         img.img-cover
+
+       .contact-content
+         p.contact-subtitle
+         h2.h2.section-title
+
+         button.btn.btn-primary
+           span.span
+
+         button.btn.btn-secondery
+           span.span
+
+       figure.contact-banner-2.img-holder
+         img.img-cover
+
+   section.section.blog
+     .container
+       h2.h2.section-title
+
+       ul.blog-list.slider-list
+         li.blog-item.slider-item
+           
+           .blog-card
+             figure.card-banner.img-holder
+               img.img-cover
+
+             .card-content
+                ul.blog-meta-list
+                  li
+                    a.blog-author
+                      ionicon
+                      span.span
+
+                  li
+                    a.blog-tag
+                      ionicon
+                      span.span
+
+                h4.h4.card-title
+
+                .blog-wrapper
+                  .date
+                     ionicon
+                     span.span
+
+                  button.detail-btn
+
+   section.section.service
+     .container
+       ul.service-list
+         li
+           .service-card
+             figure.card-banner.img-holder
+               img.img-cover
+
+             .card-content
+               h4.h4.card-title
+               p.card-text
+
+   
+
+footer.footer
+  .footer-top
+
+    .footer-brand
+        a.logo
+          img.img
+
+        p.footer-text
+
+        ul.footer-address
+          li.footer-address-item
+            a.footer-address-link
+              ionicon
+              span.span
+
+        ul.footer-social-list
+          li.social-item
+            a.footer-social-link
+              ionicon
+
+    ul.footer-list
+      li.footer-list-item
+        h5.h5.footer-list-title
+
+      li.footer-list-item
+          a.footer-link
+
+    ul.footer-list
+      li.footer-list-item
+        h5.h5.footer-list-title
+
+      li.footer-list-item
+          a.footer-link
+
+    ul.footer-list
+      li.footer-list-item
+        h5.h5.footer-list-title
+
+      li.footer-list-item
+          a.footer-link
+
+    .footer-widget
+        h5.h5.footer-list-title
+
+        p.footer-text
+
+        .input-wrapper
+          input.input-field
+          button.location-btn
+            ionicon
+
+        span.span
+        img.img
+      
+      
+
+  .footer-bottom
+    a.copyright
+
+    div
+      ul.footer-bottom-list
+        li
+          a.footer-bottom-link
+
+        li
+          a.footer-bottom-link
+
+        li
+          a.footer-bottom-link
+
+
+
+.back-top-btn
+  ionicon
+

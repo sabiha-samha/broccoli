@@ -1,0 +1,412 @@
+
+Broccoli - Organic Food website
+
+Broccoli - Organic Food website
+
+this is Ecommerce Html Template made by DuoDevs
+
+
+
+
+
+/* ------------------------------- *\
+   #TOPBAR
+\* ------------------------------- */
+
+<ion-icon name="location-outline" aria-hidden="true"></ion-icon>
+15/A, Nest Tower, NYC
+
+<ion-icon name="mail-outline" aria-hidden="true"></ion-icon>
+info@webmail.com
+
+arrow = "\e911"
+
+<ion-icon name="logo-facebook" aria-hidden="true"></ion-icon>
+<ion-icon name="logo-twitter" aria-hidden="true"></ion-icon>
+<ion-icon name="logo-instagram" aria-hidden="true"></ion-icon>
+<ion-icon name="logo-dribbble" aria-hidden="true"></ion-icon>
+
+
+
+
+/* ------------------------------- *\
+   #HEADER
+\* ------------------------------- */
+
+alt = logo
+
+/* navbar */
+
+alt = logo
+<ion-icon name="close-outline" aria-hidden="true"></ion-icon>
+
+placeholder = search...
+<ion-icon name="search-outline" aria-hidden="true"></ion-icon>
+
+Home
+<ion-icon name="add-outline" aria-hidden="true"></ion-icon>
+
+About
+<ion-icon name="add-outline" aria-hidden="true"></ion-icon>
+
+Shop
+<ion-icon name="add-outline" aria-hidden="true"></ion-icon>
+
+News
+<ion-icon name="add-outline" aria-hidden="true"></ion-icon>
+
+Pages
+<ion-icon name="add-outline" aria-hidden="true"></ion-icon>
+
+Contact
+
+<ion-icon name="person-outline" aria-hidden="true"></ion-icon>
+My Account
+
+<ion-icon name="heart-outline" aria-hidden="true"></ion-icon>
+3
+Wishlist
+
+
+5
+Shoping Cart
+<ion-icon name="cart" aria-hidden="true"></ion-icon>
+
+<ion-icon name="logo-facebook" aria-hidden="true"></ion-icon>
+<ion-icon name="logo-twitter" aria-hidden="true"></ion-icon>
+<ion-icon name="logo-linkedin" aria-hidden="true"></ion-icon>
+<ion-icon name="logo-instagram" aria-hidden="true"></ion-icon>
+
+
+/* navbar end */
+
+
+<ion-icon name="search-outline" aria-hidden="true"></ion-icon>
+<ion-icon name="person-outline" aria-hidden="true"></ion-icon>
+<ion-icon name="cart-outline" aria-hidden="true"></ion-icon>
+
+<svg viewBox="0 0 800 600">
+<path d="M300,220 C300,220 520,220 540,220 C740,220 640,540 520,420 C440,340 300,200 300,200" id="top"></path>
+<path d="M300,320 L540,320" id="middle"></path>
+<path d="M300,210 C300,210 520,210 540,210 C740,210 640,530 520,410 C440,330 300,190 300,190" id="bottom" transform="translate(480, 320) scale(1, -1) translate(-480, -318) "></path>
+</svg>
+
+
+
+
+/* ------------------------------- *\
+   #HERO
+\* ------------------------------- */
+
+alt = apple
+
+100% genuine Products
+
+Our Garden's  Most 
+Favorite Food
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.
+
+Explore Products
+
+alt = hero banner
+
+
+
+
+
+/* ------------------------------- *\
+   #FEATURES
+\* ------------------------------- */
+
+alt = orders
+
+Free shipping
+On all orders over $49.00
+
+alt = guarantee
+
+15 days returns
+Moneyback guarantee
+
+
+alt = checkout
+
+Secure checkout
+Protected by Paypal
+
+
+alt = offer gift
+
+Offer & gift here
+On all orders over
+
+
+
+
+
+/* ------------------------------- *\
+   #ABOUT
+\* ------------------------------- */
+
+alt = page banner
+
+KNOW MORE ABOUT SHOP
+
+Trusted Organic
+Food Store
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
+
+sellers who aspire to be good, do good, and spread goodness. We democratic, self-sustaining, two-sided marketplace which thrives on trust and is built on community and quality content.
+
+Jerry Henson
+/ Shop Director
+
+
+
+
+
+/* ------------------------------- *\
+   #CATEGORIES
+\* ------------------------------- */
+
+Top Categories
+
+alt = 
+
+Brows all
+(235 item)
+
+Vegetables
+(78 item)
+
+Fruits
+(45 item)
+
+Meat
+(15 item)
+
+Fish
+(25 item)
+
+Others
+(85 item)
+
+Brows all
+(235 item)
+
+
+
+
+
+/* ------------------------------- *\
+   #PRODUCTS
+\* ------------------------------- */
+
+Our Products
+
+Food & Drinks
+
+Vegetables
+
+Dried Foods
+
+Bread & Cake
+
+Fish & Meat
+
+
+alt = Fruits
+
+alt = star
+
+<ion-icon name="eye-outline" aria-hidden="true"></ion-icon>
+<ion-icon name="cart" aria-hidden="true"></ion-icon>
+<ion-icon name="heart-outline" aria-hidden="true"></ion-icon>
+
+-19%
+
+<ion-icon name="star-outline" aria-hidden="true"></ion-icon>
+(24)
+Carrots Group Scal
+$32.00
+$46.00
+
+Orange Fresh Juice
+$75.00
+$92.00
+
+Poltry Farm Meat
+$78.00
+$85.00
+
+Orange Sliced Mix
+$150.00
+$180.00
+
+
+
+
+
+/* ------------------------------- *\
+   #STATS
+\* ------------------------------- */
+
+alt = sats banner
+
+733
++
+Active Clients
+
+33K
++
+Cup Of Coffee
+
+100
++
+Get Rewards
+
+21
++
+Country Cover
+
+
+
+
+
+/* ------------------------------- *\
+   #FETARUED PRODUCTS
+\* ------------------------------- */
+
+Featured Products
+
+new
+
+<!-- same as stats -->
+
+
+
+
+
+/* ------------------------------- *\
+   #CONTACT
+\* ------------------------------- */
+
+alt = contact banner
+
+// ANY QUESTION YOU HAVE //
+
+897-876-987-90
+
+Make a call
+Contact us
+
+
+
+
+
+/* ------------------------------- *\
+   #BLOG
+\* ------------------------------- */
+
+Leatest Blog
+
+alt = blog card banner
+
+<ion-icon name="person-outline" aria-hidden="true"></ion-icon>
+by: Admin
+
+<ion-icon name="pricetags" aria-hidden="true"></ion-icon>
+Services
+
+Common Engine Oil Problems and Solutions
+
+<ion-icon name="calendar-outline" aria-hidden="true"></ion-icon>
+June 24, 2020
+
+July 23, 2020
+August 22, 2020
+
+Read more
+
+
+
+
+
+/* ------------------------------- *\
+   #SERVICE
+\* ------------------------------- */
+
+alt = product
+Curated Products
+Provide Curated Products for all product over $100
+
+Handmade
+We ensure the product quality that is our main goal
+
+Natural Food
+Return product within 3 days for any product you buy
+
+Free home delivery
+We ensure the product quality that you can trust easily
+
+
+
+
+
+/* ------------------------------- *\
+   #FOOTER
+\* ------------------------------- */
+
+alt = logo light
+
+Lorem Ipsum is simply dummy text of the and typesetting industry. Lorem Ipsum is dummy text of the printing.
+
+<ion-icon name="location-outline" aria-hidden="true"></ion-icon>
+Brooklyn, New York, United States
+
+<ion-icon name="call-outline" aria-hidden="true"></ion-icon>
++0123-456789
+
+<ion-icon name="mail-outline" aria-hidden="true"></ion-icon>
+example@example.com
+
+<ion-icon name="logo-facebook" aria-hidden="true"></ion-icon>
+<ion-icon name="logo-twitter" aria-hidden="true"></ion-icon>
+<ion-icon name="logo-linkedin" aria-hidden="true"></ion-icon>
+<ion-icon name="logo-youtube" aria-hidden="true"></ion-icon>
+
+Company
+About
+Blog
+All Products
+Locations Map
+FAQ
+Contact us
+
+
+Newsletter
+Subscribe to our weekly Newsletter and receive updates via email.
+
+placeholder = Email*
+
+<ion-icon name="navigate" aria-hidden="true"></ion-icon>
+
+We Accept
+
+alt = payment image
+
+All Rights codewithwarroir 2023
+
+Terms & Conditions
+Claim
+Privacy & Policy
+
+
+
+/**
+ * Go Top Btn
+ */
+
+<ion-icon name="chevron-up" aria-hidden="true"></ion-icon>
