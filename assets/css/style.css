@@ -2095,8 +2095,6 @@ body {
    * CONTACT
    */
 
-  .contact { overflow: hidden; }
-
   .contact .container {
     padding-block: 20px;
     max-width: 1300px;
@@ -2109,7 +2107,6 @@ body {
 
   .contact-banner-2 {
     width: 350px;
-    bottom: 20px;
     right: -32px;
   }
 
